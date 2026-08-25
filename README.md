@@ -116,7 +116,16 @@ The interactive dashboard includes:
 - NOTA analysis
 - Party slicer
 - Constituency slicer
+## 📂 Project Files
 
+- [Python Analysis](election_analysis.ipynb)
+- [SQL Analysis](sql/)
+- [Excel Report](TN_Election_Final_Report.xlsx)
+- [Power BI Dashboard](dashboard.png)
+
+## 🔗 Project Repository
+
+This repository contains the complete SQL, Python, Excel, and Power BI workflow used for the project.
 ## 💡 Key Insights
 
 - Identified the highest-performing candidates based on total votes.
